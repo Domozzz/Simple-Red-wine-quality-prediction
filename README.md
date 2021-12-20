@@ -1,4 +1,5 @@
 # Simple-Red-wine-quality-prediction
+
 ![alt text](https://github.com/Domozzz/Simple-Red-wine-quality-prediction/blob/main/Images/red-wine.jpg)
 
 ## ภาพรวม
@@ -31,12 +32,11 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
     pip install pandas
     pip install sklearn
 ```
+
 ## Accuracy Results
 
-|                  Model                 | Train data accuracy | Train data accuracy |
-| ---------------------------------------| ------------------- | ---------- |        |  
-|                                        |                     |            |        |
-|                                        |                     |            |        |
-|                                        |                     |            |        |
-|                                        |                     |            |        |
-
+| Model Training      | Train data accuracy | Train data accuracy |
+| ------------------- | ------------------- | ------------------- |
+| Logistic Regression | 100.0%              | 34.4%               |
+| Neural Network      | 39.2%               | 46.9%               |
+| Decision Tree       | 48.2%               | 55.0%               |
