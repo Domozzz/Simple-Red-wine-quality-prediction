@@ -7,7 +7,7 @@
 
 ## Dataset
 
-dataset ที่ใช้สำหรับงานนี้ [ดาวน์โหลด](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv)
+dataset ที่ใช้สำหรับงานนี้ [ดาวน์โหลด](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) <br />
 หมายเหตุ: dataset จาก link ข้างบนยังไม่สามารถที่จะนำไปใช้งานได้ ต้องการขั้นตอนการทำ data cleaining ก่อนที่จะนำไปใช้งาน
 
 ## คำอธิบายของ Dataset
