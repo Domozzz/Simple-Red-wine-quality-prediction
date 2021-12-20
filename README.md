@@ -1,4 +1,5 @@
 # Simple-Red-wine-quality-prediction
+![alt text](https://github.com/Domozzz/Simple-Red-wine-quality-prediction/blob/main/Images/red-wine.jpg)
 
 ## ภาพรวม
 
