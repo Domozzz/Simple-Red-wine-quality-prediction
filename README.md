@@ -37,6 +37,6 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 | Model Training      | Train data accuracy | Train data accuracy |
 | ------------------- | ------------------- | ------------------- |
-| Logistic Regression | 100.0%              | xxx%                |
+| Logistic Regression | 100%                | xxx%                |
 | Neural Network      | 100%                | xxx%                |
 | Decision Tree       | 100%                | xxx%                |
