@@ -7,15 +7,14 @@
 
 ## คำอธิบายของ Dataset
 
-- volatile acidity : Volatile acidity is the gaseous acids present in wine.
-- fixed acidity : Primary fixed acids found in wine are tartaric, succinic, citric, and malic
-- residual sugar : Amount of sugar left after fermentation.
+- fixed acidity : are non-volatile acids that do not evaporate readily
+- volatile acidity : are high acetic acid in wine which leads to an unpleasant vinegar taste
 - citric acid : It is weak organic acid, found in citrus fruits naturally.
-- chlorides : Amount of salt present in wine.
-- free sulfur dioxide : So2 is used for prevention of wine by oxidation and microbial spoilage.
+- residual sugar : is the amount of sugar remaining after fermentation stops. The key is to have a perfect balance between — sweetness and sourness (wines > 45g/ltrs are sweet)
+- chlorides : the amount of salt in the wine
+- free sulfur dioxide : it prevents microbial growth and the oxidation of wine
 - total sulfur dioxide
-- pH : In wine pH is used for checking acidity
 - density
+- pH : the level of acidity
 - sulphates : Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
 - alcohol : Percent of alcohol present in wine.
-
