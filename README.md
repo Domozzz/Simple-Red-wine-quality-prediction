@@ -31,4 +31,12 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
     pip install pandas
     pip install sklearn
 ```
+## Accuracy Results
+
+|                  Model                 | Train data accuracy | Train data accuracy |
+| ---------------------------------------| ------------------- | ---------- |        |  
+|                                        |                     |            |        |
+|                                        |                     |            |        |
+|                                        |                     |            |        |
+|                                        |                     |            |        |
 
