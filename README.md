@@ -7,19 +7,19 @@
 
 ## Dataset
 
-dataset ที่ใช้สำหรับงานนี้ [ดาวน์โหลด](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) <br />
-หมายเหตุ: dataset จาก link ข้างบนยังไม่สามารถที่จะนำไปใช้งานได้ ต้องการขั้นตอนการทำ data cleaining ก่อนที่จะนำไปใช้งาน
+dataset ที่ใช้สำหรับงานนี้ [ดาวน์โหลดไฟล์ที่นี่](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) </br>
+หมายเหตุ: dataset จาก link ข้างบนยังไม่สามารถที่จะนำไปใช้งานได้ ต้องผ่านขั้นตอนการทำ data cleaining ก่อนที่จะนำไปใช้งาน
 
 ## คำอธิบายของ Dataset
 
-- fixed acidity : are non-volatile acids that do not evaporate readily
-- volatile acidity : are high acetic acid in wine which leads to an unpleasant vinegar taste
-- citric acid : It is weak organic acid, found in citrus fruits naturally.
-- residual sugar : is the amount of sugar remaining after fermentation stops. The key is to have a perfect balance between — sweetness and sourness (wines > 45g/ltrs are sweet)
-- chlorides : the amount of salt in the wine
-- free sulfur dioxide : it prevents microbial growth and the oxidation of wine
-- total sulfur dioxide
-- density
-- pH : the level of acidity
-- sulphates : Added sulfites preserve freshness and protect wine from oxidation, and bacteria.
-- alcohol : Percent of alcohol present in wine.
+- fixed acidity : เป็นกรดไม่ระเหย(non-volatile acids) ที่ไม่ระเหยโดยง่าย
+- volatile acidity : เป็นกรดอะซิติกสูงในไวน์ซึ่งนำไปสู่รสเปรี้ยวที่ไม่พึงประสงค์
+- citric acid : เป็นกรดอินทรีย์อ่อน พบในผลไม้รสเปรี้ยวตามธรรมชาติ
+- residual sugar : คือปริมาณน้ำตาลที่เหลืออยู่หลังจากการหมักสิ้นสุดลง โดยกุญแจที่สำคัญต้องมีความสมดุลระหว่างความหวานและความเปรี้ยว (wines > 45g/ltrs are sweet)
+- chlorides : ปริมาณเกลือในไวน์
+- free sulfur dioxide : ช่วยป้องกันการเจริญเติบโตของจุลินทรีย์และการเกิดออกซิเดชันของไวน์
+- total sulfur dioxide : ซัลเฟอร์ไดออกไซด์ทั้งหมดที่มีอยู่ในไวน์
+- density : ไวน์ที่หวานมักจะมีความหนาแน่นที่สูงกว่า
+- pH : ระดับความเป็นกรด
+- sulphates : ซัลไฟต์ที่เพิ่มเข้ามาช่วยรักษาความสดและปกป้องไวน์จากการเกิดออกซิเดชันและแบคทีเรีย
+- alcohol : เปอร์เซ็นต์ของแอลกอฮอล์ที่มีอยู่ในไวน์
