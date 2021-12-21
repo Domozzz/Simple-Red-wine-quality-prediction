@@ -44,7 +44,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## Methodology (รอเพิ่มรายละเอียด)
 
-### 1. data preparation
+### 1. Data preparation
 
 ### 2. Splitting the Features and Target
 
