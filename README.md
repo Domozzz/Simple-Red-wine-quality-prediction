@@ -33,14 +33,9 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
     pip install sklearn
 ```
 
-## Accuracy Results
+## How to use this project
 
-| Model Training      | Train data accuracy | Test data accuracy |
-| ------------------- | ------------------- | ------------------ |
-| Decision Tree       | 1.0                 | 0.640625           |
-| Logistic Regression | 0.581704456606724   | 0.6                |
-| Neural Network      | 0.6012509773260359  | 0.5625             |
-| Random Forest       | 1.0                 | 0.696875           |
+ใน folder ที่มีชื่อว่า 'RedWine-Dataset' ภายในจะมี dataset ของโปรเจ็คนี้อยู่หากยังไม่มีไฟล์ dataset ให้ไปโหลดมาก่อน
 
 ## Methodology (รอเพิ่มรายละเอียด)
 
@@ -53,3 +48,12 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 ### 4. Model Training
 
 ### 5. Model Evaluation & Tesing
+
+## Accuracy Results
+
+| Model Training      | Train data accuracy | Test data accuracy |
+| ------------------- | ------------------- | ------------------ |
+| Decision Tree       | 1.0                 | 0.640625           |
+| Logistic Regression | 0.581704456606724   | 0.6                |
+| Neural Network      | 0.6012509773260359  | 0.5625             |
+| Random Forest       | 1.0                 | 0.696875           |
