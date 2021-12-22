@@ -43,6 +43,8 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## Correlation Matrix
 
+![alt text](https://github.com/Domozzz/Simple-Red-wine-quality-prediction/blob/main/Images/Correlation%20Matrix.png)
+
 ## Methodology (รอเพิ่มรายละเอียด)
 
 ### 1. Data preparation
