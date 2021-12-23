@@ -65,9 +65,9 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | -------------------- | ------------------- | ------------------ |
 | Decision Tree        | 100.0               | 60.62499999999999  |
 | K- Nearest Neighbor  | 63.95621579358875   | 48.4375            |
-| Logistic Regression  |                     |                    |
-| Naive Bayes          |                     |                    |
-| Neural Network       |                     |                    |
+| Logistic Regression  | 59.030492572322125  | 55.00000000000001  |
+| Naive Bayes          | 55.98123534010946   | 57.1875            |
+| Neural Network       | 60.2814698983581    | 58.12500000000001  |
 | Random Forest        |                     |                    |
 
 ## Precision Results
@@ -76,9 +76,9 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | -------------------- | -------------------- | ------------------- |
 | Decision Tree        | 100.0                | 60.677322686887244  |
 | K- Nearest Neighbor  | 68.71773838978423    | 54.32444852941176   |
-| Logistic Regression  |                      |                     |
-| Naive Bayes          |                      |                     |
-| Neural Network       |                      |                     |
+| Logistic Regression  | 70.97354843839106    | 65.88249655330883   |
+| Naive Bayes          | 55.45985682390634    | 56.49724264705882   |
+| Neural Network       | 69.39642267139773    | 67.96734260110293   |
 | Random Forest        |                      |                     |
 
 ## Recall Results
@@ -87,18 +87,18 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | -------------------- | ----------------- | ----------------- |
 | Decision Tree        | 100.0             | 60.62499999999999 |
 | K- Nearest Neighbor  | 63.95621579358875 | 48.4375           |
-| Logistic Regression  |                   |                   |
-| Naive Bayes          |                   |                   |
-| Neural Network       |                   |                   |
+| Logistic Regression  | 59.030492572322125| 55.00000000000001 |
+| Naive Bayes          | 55.98123534010946 | 57.1875           |
+| Neural Network       | 60.2814698983581  | 58.12500000000001 |
 | Random Forest        |                   |                   |
 
 ## F1 Results
 
-| Model Classification | Train data F1     | Test data F1      |
-| -------------------- | -------------     | ----------------- |
-| Decision Tree        | 100.0             | 41.41571596451014 |
-| K- Nearest Neighbor  | 40.05819219760352 | 20.444080940264143|
-| Logistic Regression  |                   |                   |
-| Naive Bayes          |                   |                   |
-| Neural Network       |                   |                   |
-| Random Forest        |                   |                   |
+| Model Classification | Train data F1     | Test data F1       |
+| -------------------- | -------------     | -----------------  |
+| Decision Tree        | 100.0             | 41.41571596451014  |
+| K- Nearest Neighbor  | 40.05819219760352 | 20.444080940264143 |
+| Logistic Regression  | 22.315537953781217| 20.17310989436425  |
+| Naive Bayes          | 36.204571545566296| 32.4281622614489   |
+| Neural Network       | 26.500368627827132| 23.366858352782653 |
+| Random Forest        |                   |                    |
