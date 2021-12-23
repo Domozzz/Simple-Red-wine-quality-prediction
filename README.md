@@ -43,7 +43,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## Correlation Matrix
 
-![alt text](https://github.com/Domozzz/Simple-Red-wine-quality-prediction/blob/main/Images/Correlation%20Matrix.png)
+![alt text](https://github.com/Domozzz/Simple-Red-wine-quality-prediction/blob/main/Images/Correlation%20Matrix.jpg)
 
 ## Methodology (รอเพิ่มรายละเอียด)
 
@@ -59,7 +59,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## Accuracy Results
 
-| Model Classification | Train data accuracy | Test data accuracy |
+| Model Classification | Train data Accuracy | Test data Accuracy |
 | -------------------- | ------------------- | ------------------ |
 | Decision Tree        | 1.0                 | 0.640625           |
 | K- Nearest Neighbor  | 1.0                 | 0.640625           |
