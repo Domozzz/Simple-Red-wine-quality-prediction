@@ -64,7 +64,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | Model Classification | Train data Accuracy | Test data Accuracy |
 | -------------------- | ------------------- | ------------------ |
 | Decision Tree        | 100.0               | 60.62499999999999  |
-| K- Nearest Neighbor  |                     |                    |
+| K- Nearest Neighbor  | 63.95621579358875   | 48.4375            |
 | Logistic Regression  |                     |                    |
 | Naive Bayes          |                     |                    |
 | Neural Network       |                     |                    |
