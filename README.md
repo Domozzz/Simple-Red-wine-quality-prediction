@@ -55,7 +55,9 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ### 4. Model Training
 
-### 5. Model Evaluation & Tesing
+### 5. Model Evaluation
+
+### 6. Testing Prediction system
 
 ## Accuracy Results
 
@@ -67,3 +69,36 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | Naive Bayes          | 1.0                 | 0.696875           |
 | Neural Network       | 0.6012509773260359  | 0.5625             |
 | Random Forest        | 1.0                 | 0.696875           |
+
+## Precision Results
+
+| Model Classification | Train data Precision | Test data Precision |
+| -------------------- | -------------------- | ------------------- |
+| Decision Tree        |                      |                     |
+| K- Nearest Neighbor  |                      |                     |
+| Logistic Regression  |                      |                     |
+| Naive Bayes          |                      |                     |
+| Neural Network       |                      |                     |
+| Random Forest        |                      |                     |
+
+## Recall Results
+
+| Model Classification | Train data Recall | Test dataRecall |
+| -------------------- | ----------------- | --------------- |
+| Decision Tree        |                   |                 |
+| K- Nearest Neighbor  |                   |                 |
+| Logistic Regression  |                   |                 |
+| Naive Bayes          |                   |                 |
+| Neural Network       |                   |                 |
+| Random Forest        |                   |                 |
+
+## F1 Results
+
+| Model Classification | Train data F1 | Test F1 |
+| -------------------- | ------------- | ------- |
+| Decision Tree        |               |         |
+| K- Nearest Neighbor  |               |         |
+| Logistic Regression  |               |         |
+| Naive Bayes          |               |         |
+| Neural Network       |               |         |
+| Random Forest        |               |         |
