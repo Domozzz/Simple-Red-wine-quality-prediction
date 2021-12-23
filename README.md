@@ -83,22 +83,22 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## Recall Results
 
-| Model Classification | Train data Recall | Test dataRecall |
-| -------------------- | ----------------- | --------------- |
-| Decision Tree        |                   |                 |
-| K- Nearest Neighbor  |                   |                 |
-| Logistic Regression  |                   |                 |
-| Naive Bayes          |                   |                 |
-| Neural Network       |                   |                 |
-| Random Forest        |                   |                 |
+| Model Classification | Train data Recall | Test data Recall |
+| -------------------- | ----------------- | ---------------- |
+| Decision Tree        |                   |                  |
+| K- Nearest Neighbor  |                   |                  |
+| Logistic Regression  |                   |                  |
+| Naive Bayes          |                   |                  |
+| Neural Network       |                   |                  |
+| Random Forest        |                   |                  |
 
 ## F1 Results
 
-| Model Classification | Train data F1 | Test F1 |
-| -------------------- | ------------- | ------- |
-| Decision Tree        |               |         |
-| K- Nearest Neighbor  |               |         |
-| Logistic Regression  |               |         |
-| Naive Bayes          |               |         |
-| Neural Network       |               |         |
-| Random Forest        |               |         |
+| Model Classification | Train data F1 | Test data F1 |
+| -------------------- | ------------- | ------------ |
+| Decision Tree        |               |              |
+| K- Nearest Neighbor  |               |              |
+| Logistic Regression  |               |              |
+| Naive Bayes          |               |              |
+| Neural Network       |               |              |
+| Random Forest        |               |              |
