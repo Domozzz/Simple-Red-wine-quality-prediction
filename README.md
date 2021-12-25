@@ -95,4 +95,6 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 2. [Red Wine Quality Prediction Using Regression Modeling and Machine Learning](https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46)
 
-3. [Red Wine Quality Prediction Using Regression Modeling and Machine Learning](https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/)
+3. [Wine Quality Prediction Using Machine Learning](https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/)
+
+4. [HeartDisease-NaiveBayes-SVM](https://github.com/arnavgarg123/HeartDisease-NaiveBayes-SVM)
