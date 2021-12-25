@@ -81,8 +81,6 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | Neural Network       | 69.39642267139773    | 67.96734260110293   |
 | Random Forest        | 100.0                | 73.29771752450979   |
 
-]
-
 ## Recall Results
 
 | Model Classification | Train data Recall  | Test data Recall  |
@@ -106,3 +104,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 | Random Forest        | 100.0              | 41.31967622764521  |
 
 ## References
+
+https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing#scrollTo=OHmcP7DJsSEP
+https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46
+https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/
