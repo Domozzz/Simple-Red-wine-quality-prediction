@@ -63,7 +63,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 | Model Classification | Train data Accuracy | Test data Accuracy |
 | -------------------- | ------------------- | ------------------ |
-| Decision Tree        | 100.0               | 60.62499999999999  |
+| Decision Tree        | `100.0`             | 60.62499999999999  |
 | K- Nearest Neighbor  | 63.95621579358875   | 48.4375            |
 | Logistic Regression  | 59.030492572322125  | 55.00000000000001  |
 | Naive Bayes          | 55.98123534010946   | 57.1875            |
@@ -105,7 +105,7 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## References
 
-1.[Heart Disease Prediction](https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing#scrollTo=OHmcP7DJsSEP)
+1. [Heart Disease Prediction](https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing#scrollTo=OHmcP7DJsSEP)
 
 2. [Red Wine Quality Prediction Using Regression Modeling and Machine Learning](https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46)
 
