@@ -105,7 +105,8 @@ dataset ที่ใช้สำหรับงานนี้ [ดาวน์�
 
 ## References
 
-1.Heart Disease Prediction ![alt text](https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing#scrollTo=OHmcP7DJsSEP)
+1.[Heart Disease Prediction](https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing#scrollTo=OHmcP7DJsSEP)
 
-2. https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46
-3. https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/
+2. [Red Wine Quality Prediction Using Regression Modeling and Machine Learning](https://towardsdatascience.com/red-wine-quality-prediction-using-regression-modeling-and-machine-learning-7a3e2c3e1f46)
+
+3. [Red Wine Quality Prediction Using Regression Modeling and Machine Learning](https://www.analyticsvidhya.com/blog/2021/04/wine-quality-prediction-using-machine-learning/)
